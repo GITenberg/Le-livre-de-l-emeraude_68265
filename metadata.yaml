@@ -1,0 +1,48 @@
+_repo: Le-livre-de-l-emeraude_68265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suarès, André
+    aliases:
+    - Makepace Bruce, William
+    - Seipse, Andre de
+    - Caerdal
+    - Bangor, Felix
+    - ResSua
+    - Bangor, Félix
+    - Caërdal
+    - Scantrel, Yves
+    - Suarès, Isaac Félix
+    - Séipse, André de
+    - Bruce, William Makepace
+    - Scantrel, Felix Andre Yves
+    - Suares, Andre
+    - Bondel, Ponce
+    - Scantrel, Félix André Yves
+    birthdate: 1868
+    deathdate: 1948
+    gutenberg_agent_id: '49487'
+    url: http://www.gutenberg.org/2009/agents/49487
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Suar%C3%A8s
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Suar%C3%A8s
+description: ''
+gutenberg_issued: '2022-06-08'
+identifiers:
+  gutenberg: '68265'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101067526069
+pgterms:marc905: 20201111222001suars
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: France :Calmann-Lévy,1901,pubdate 1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le livre de l'émeraude
+url: http://www.gutenberg.org/ebooks/68265
